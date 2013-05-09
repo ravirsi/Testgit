@@ -5,7 +5,7 @@
 
   <Header invoiceNumber=222222222>
     <Date>
-      <Month>July</Month>
+      <Month>Jan</Month>
       <Day>15</Day>
       <Year>2001</Year>
     </Date>
