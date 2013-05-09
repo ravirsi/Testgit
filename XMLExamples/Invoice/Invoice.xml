@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Invoice PUBLIC "InvoiceId" "Invoice.dtd" >
 <Invoice>
-  <Header invoiceNumber="00000000">
+
+
+  <Header invoiceNumber="9999999">
     <Date>
       <Month>July</Month>
       <Day>15</Day>
