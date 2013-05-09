@@ -3,7 +3,7 @@
 <Invoice>
 
 
-  <Header invoiceNumber="9999999">
+  <Header invoiceNumber="00000000">
     <Date>
       <Month>July</Month>
       <Day>15</Day>
