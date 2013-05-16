@@ -2,7 +2,8 @@
 <!DOCTYPE Invoice PUBLIC "InvoiceId" "Invoice.dtd" >
 <Invoice>
 
-  <Header invoiceNumber=88888899999999>
+
+  <Header invoiceNumber=0000000000>
     <Date>
       <Month>Jan</Month>
       <Day>15</Day>
