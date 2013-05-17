@@ -3,10 +3,10 @@
 <Invoice>
 
 
-  <Header invoiceNumber=222222222>
+  <Header invoiceNumber=1>
     <Date>
       <Month>Jan</Month>
-      <Day>2</Day>
+      <Day>1</Day>
       <Year>2001</Year>
     </Date>
     <BillTo custNumber="X5739" name="Milton McGoo" phone="416-448-4414">
@@ -15,7 +15,7 @@
         <street2>1150 Eglinton Ave East</street2>
         <city>Toronto</city>
         <state>Ontario</state>
-        <zip>M3C 1H7</zip>
+        <zip>M3C Ajit 1H7</zip>
         <country>Canada</country>
       </Address>
     </BillTo>
