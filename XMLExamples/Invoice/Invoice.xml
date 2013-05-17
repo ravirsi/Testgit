@@ -3,10 +3,10 @@
 <Invoice>
 
 
-  <Header invoiceNumber=1>
+  <Header invoiceNumber=007>
     <Date>
       <Month>Jan</Month>
-      <Day>1</Day>
+      <Day>7</Day>
       <Year>2001</Year>
     </Date>
     <BillTo custNumber="X5739" name="Milton McGoo" phone="416-448-4414">
